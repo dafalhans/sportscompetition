@@ -1,2 +1,3 @@
 # sportscompetition
-Opdracht CVO Focus Module 4
+Assignment for CVO Focus Module 4
+
